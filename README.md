@@ -1,0 +1,1 @@
+A simple Python program to convert URLs into custom QR codes.
