@@ -25,7 +25,14 @@ A responsive desktop application that delivers real-time worldwide weather metri
 * **Core Functionality:** Provides a clean graphic user interface (GUI) built with `tkinter`. It captures user-specified city locations, passes concurrent payload requests via the `requests` HTTP client library to an external RESTful Weather API, handles status code checking, parses JSON payloads on the fly, and binds live metrics (temperature, humidity, atmospheric thresholds) back to UI labels.
 * **Technical Highlights:** Event-driven UI execution, asynchronous-style network calls via standard REST APIs, complex JSON parsing, and graceful error handling for missing network packets or bad input parameters.
 
+### 4. 🔐 Substitution Cipher Encryption Tool
+A lightweight cybersecurity script implementing a Monoalphabetic Substitution Cipher algorithm to dynamically encrypt and decrypt custom string sequences.
+
+* **Core Functionality:** Creates a standardized alphabet map array from alphanumeric characters, spaces, and punctuation constants. It creates a randomized matching cryptographic key array via runtime permutation. The script walks through individual characters, indexing them against the target mapping keys to yield encoded or decoded outputs.
+* **Technical Highlights:** Array mapping matrix manipulations, runtime pseudo-random indexing sequences, string serialization tracking, and terminal I/O streaming handlers.
+
 ---
+
 
 
 
