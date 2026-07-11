@@ -66,7 +66,7 @@ I enjoy building scalable web applications, automation tools, networking utiliti
 
 ### Tools
 
-Git • GitHub • VS Code • Postman • Docker • Linux
+Git • GitHub • VS Code • Postman • Linux
 
 ---
 
@@ -75,41 +75,8 @@ Git • GitHub • VS Code • Postman • Docker • Linux
 - Building production-ready Full Stack Projects
 - Python Automation
 - Spring Boot APIs
-- DevOps & Docker
 - Cyber Security Projects
 - Open Source Contributions
-
----
-
-# 📈 GitHub Stats
-
-<p align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=tharshankarthick&show_icons=true&theme=tokyonight"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tharshankarthick&layout=compact&theme=tokyonight"/>
-
-</p>
-
----
-
-# 🔥 GitHub Streak
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=tharshankarthickE&theme=tokyonight"/>
-
-</p>
-
----
-
-# 🏆 GitHub Trophy
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=tharshankarthick&theme=tokyonight&row=1&column=6"/>
-
-</p>
 
 ---
 
